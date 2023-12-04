@@ -1,5 +1,8 @@
 # zustand
 
+## 문서링크
+https://docs.pmnd.rs/zustand/getting-started/introduction
+
 ## 설치
 ```
 npm install zustand

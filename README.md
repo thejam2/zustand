@@ -81,7 +81,7 @@ function App() {
 ```
 ### 깊은 update
 ```
-//update할 타입
+//update할 타입 
 type State = {
   deep: {
     nested: {
